@@ -93,7 +93,7 @@
                 border-2 border-blue-300
               "
             >
-              <option>Sundays</option>
+              <option>Sunday</option>
               <option>Monday</option>
               <option>Tuesday</option>
               <option>Wednesday</option>
