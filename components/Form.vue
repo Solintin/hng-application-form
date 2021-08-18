@@ -1,10 +1,10 @@
 <template>
     <div>
-        <div class=" my-3 text-center text-red-600 font-black text-2xl">
+        <div class=" my-6 text-center text-red-600 font-black text-2xl">
             APPLY FOR HNG INTERN'S MENTOR
         </div>
-    <div class="rounded-md sm:mx-72 mt-10 bg-gray-100 shadow-100">
-      <img src="@/assets/hng.png" class="w-full rounded-lg -mt-5" alt="" />
+    <div class="rounded-md mb-5 sm:mx-72 mt-10 bg-gray-100 shadow-100">
+      <img src="@/assets/hng.png" class="rounded-lg " alt="" />
       <div class="p-10">
         <!-- Name -->
         <div class="grid sm:grid-cols-2 gap-4 mb-3">

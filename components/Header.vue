@@ -4,13 +4,14 @@
       class="
         bg-gray-200
         shadow-10
-        text-2xl text-blue-500
+        
+        sm:text-2xl text-blue-500
         font-bold
         flex
         justify-between
         items-center
         px-10
-        py-5
+        py-3
       "
     >
       <div><a href="https://training.zuri.team">HNG</a></div>

@@ -10,7 +10,8 @@
         justify-between
         items-center
         px-10
-        py-5
+        py-3
+        static bottom-0 left-0 right-0
       "
     >
       <div>&copy;2021</div>
